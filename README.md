@@ -1,6 +1,6 @@
-# Social Networking Application (Whatsapp Web Clone (UI Only))
+# Social Networking Application (Facebook Web Clone (UI Only))
 
-This is a fully-functional Whatsapp Web Clone built with REACTJS.
+This is a fully-functional Facebook Web Clone built with REACTJS.
 
 
 ## Technologies used
