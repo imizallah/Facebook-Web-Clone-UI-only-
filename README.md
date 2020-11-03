@@ -14,7 +14,7 @@ This is a fully-functional Facebook Web Clone built with REACTJS.
 ### 1. Clone repo
 
 ```
-$ git clone https://github.com/imizallah/Whatsapp-Web-Clone-UI-only-.git
+$ git clone https://github.com/imizallah/Facebook-Web-Clone-UI-only-.git
 ```
 
 ### 4. How to Run Application
